@@ -1,4 +1,4 @@
 
 
-from flaskr import app
+from smartMenu import app
 app.run(debug=True)
